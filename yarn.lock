@@ -4124,10 +4124,10 @@ bitcore-lib-doge@8.25.7:
     lodash "^4.17.20"
     scryptsy "2.1.0"
 
-bitcore-lib-ltc@8.25.27:
-  version "8.25.27"
-  resolved "https://registry.yarnpkg.com/bitcore-lib-ltc/-/bitcore-lib-ltc-8.25.27.tgz#1d4bd2f718eb8763a864ac43f1feb4778a37da1b"
-  integrity sha512-Vmy9+07f1rZPilOUZ/0tjBZqdQTutwQQ0/nILB2m6Rv59R9FkqBi37p/QBZXZe5kxJ5GzSNPn8Dqkn303YMB/g==
+bitcore-lib-ltc@8.25.40:
+  version "8.25.40"
+  resolved "https://registry.yarnpkg.com/bitcore-lib-ltc/-/bitcore-lib-ltc-8.25.40.tgz#16a6c566277a23b5c410b31017cb0c24d9af7e1f"
+  integrity sha512-++P/D5D/HoT7EhtOtT9OYgJstGimAwQhwYZH0qoLq/S0yB9s1UeqCTZUexYY3gh/5u1mm8FCVcJ45GkuHlAmEA==
   dependencies:
     bech32 "=2.0.0"
     bn.js "=4.11.8"
